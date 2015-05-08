@@ -1,3 +1,3 @@
-# Java-Course
+# Java-Cours
 First things first !!!
 Test
